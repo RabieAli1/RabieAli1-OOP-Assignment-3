@@ -2,7 +2,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace GenericsPrpject;
 
-public class Student
+public class Student : IHasId
 {
 
 public int Id { get; set; }
