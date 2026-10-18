@@ -1,45 +1,37 @@
 namespace GenericsPrpject
 {
-
-    public class Store<T>where T : IHasId
+    public class Store<T> where T : IHasId
     {
-        private readonly List<T> _items = new();
+        private readonly Dictionary<int, T> _items = new();
 
         public void Add(T item)
         {
-            _items.Add(item);
+            if (_items.ContainsKey(item.Id))
+            {
+                throw new InvalidOperationException($"An item with Id '{item.Id}' already exists in the store.");
+            }
+
+            _items.Add(item.Id, item);
         }
 
         public T? GetById(int id)
         {
-            foreach (var item in _items)
+            if (_items.TryGetValue(id, out var item))
             {
-                // الكومبايلر في خطأ هنا ولن يترجم الكود
-                if (item.Id == id)
-                    return item;
+                return item;
             }
 
             return default;
         }
 
-        public List<T> GetAll()
+        public IReadOnlyCollection<T> GetAll()
         {
-            return _items;
+            return _items.Values;
         }
 
         public bool Remove(int id)
         {
-            for (var i = 0; i < _items.Count; i++)
-            {
-                // خطأ كومبايلر هنا برضو لنفس السبب
-                if (_items[i].Id == id)
-                {
-                    _items.RemoveAt(i);
-                    return true;
-                }
-            }
-
-            return false;
+            return _items.Remove(id);
         }
     }
 }
