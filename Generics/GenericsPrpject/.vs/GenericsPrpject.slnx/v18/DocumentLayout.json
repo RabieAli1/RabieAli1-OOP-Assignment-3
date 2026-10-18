@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\RABIE ALI\\Desktop\\02 - \u0627\u0644\u0645\u0634\u0627\u0631\u064A\u0639 \u0648\u0627\u0644\u0628\u0631\u0645\u062C\u0629\\RabieAli1-OOP-Assignment-3\\Generics\\GenericsPrpject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB20C3C4-203D-44EB-AC88-7DF837001454}|GenericsPrpject\\GenericsPrpject.csproj|c:\\users\\rabie ali\\desktop\\02 - \u0627\u0644\u0645\u0634\u0627\u0631\u064A\u0639 \u0648\u0627\u0644\u0628\u0631\u0645\u062C\u0629\\rabieali1-oop-assignment-3\\generics\\genericsprpject\\genericsprpject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB20C3C4-203D-44EB-AC88-7DF837001454}|GenericsPrpject\\GenericsPrpject.csproj|solutionrelative:genericsprpject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\RABIE ALI\\Desktop\\02 - \u0627\u0644\u0645\u0634\u0627\u0631\u064A\u0639 \u0648\u0627\u0644\u0628\u0631\u0645\u062C\u0629\\RabieAli1-OOP-Assignment-3\\Generics\\GenericsPrpject\\GenericsPrpject\\Program.cs",
+              "RelativeDocumentMoniker": "GenericsPrpject\\Program.cs",
+              "ToolTip": "C:\\Users\\RABIE ALI\\Desktop\\02 - \u0627\u0644\u0645\u0634\u0627\u0631\u064A\u0639 \u0648\u0627\u0644\u0628\u0631\u0645\u062C\u0629\\RabieAli1-OOP-Assignment-3\\Generics\\GenericsPrpject\\GenericsPrpject\\Program.cs",
+              "RelativeToolTip": "GenericsPrpject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T01:19:17.673Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

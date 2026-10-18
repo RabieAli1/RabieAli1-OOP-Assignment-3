@@ -1,0 +1,5 @@
+C:\Users\RABIE ALI\Desktop\02 - المشاريع والبرمجة\RabieAli1-OOP-Assignment-3\Generics\GenericsPrpject\GenericsPrpject\obj\Debug\net10.0\GenericsPrpject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RABIE ALI\Desktop\02 - المشاريع والبرمجة\RabieAli1-OOP-Assignment-3\Generics\GenericsPrpject\GenericsPrpject\obj\Debug\net10.0\GenericsPrpject.AssemblyInfoInputs.cache
+C:\Users\RABIE ALI\Desktop\02 - المشاريع والبرمجة\RabieAli1-OOP-Assignment-3\Generics\GenericsPrpject\GenericsPrpject\obj\Debug\net10.0\GenericsPrpject.AssemblyInfo.cs
+C:\Users\RABIE ALI\Desktop\02 - المشاريع والبرمجة\RabieAli1-OOP-Assignment-3\Generics\GenericsPrpject\GenericsPrpject\obj\Debug\net10.0\GenericsPrpject.csproj.CoreCompileInputs.cache
+C:\Users\RABIE ALI\Desktop\02 - المشاريع والبرمجة\RabieAli1-OOP-Assignment-3\Generics\GenericsPrpject\GenericsPrpject\obj\Debug\net10.0\GenericsPrpject.sourcelink.json
