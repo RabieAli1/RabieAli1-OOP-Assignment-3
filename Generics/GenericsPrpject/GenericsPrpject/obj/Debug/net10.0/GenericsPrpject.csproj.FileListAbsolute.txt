@@ -1,0 +1,20 @@
+C:\Users\RABIE ALI\Desktop\02 - المشاريع والبرمجة\RabieAli1-OOP-Assignment-3\Generics\GenericsPrpject\GenericsPrpject\obj\Debug\net10.0\GenericsPrpject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RABIE ALI\Desktop\02 - المشاريع والبرمجة\RabieAli1-OOP-Assignment-3\Generics\GenericsPrpject\GenericsPrpject\obj\Debug\net10.0\GenericsPrpject.AssemblyInfoInputs.cache
+C:\Users\RABIE ALI\Desktop\02 - المشاريع والبرمجة\RabieAli1-OOP-Assignment-3\Generics\GenericsPrpject\GenericsPrpject\obj\Debug\net10.0\GenericsPrpject.AssemblyInfo.cs
+C:\Users\RABIE ALI\Desktop\02 - المشاريع والبرمجة\RabieAli1-OOP-Assignment-3\Generics\GenericsPrpject\GenericsPrpject\obj\Debug\net10.0\GenericsPrpject.csproj.CoreCompileInputs.cache
+C:\Users\RABIE ALI\Desktop\02 - المشاريع والبرمجة\RabieAli1-OOP-Assignment-3\Generics\GenericsPrpject\GenericsPrpject\obj\Debug\net10.0\GenericsPrpject.sourcelink.json
+C:\Users\RABIE ALI\Desktop\pro\RabieAli1-OOP-Assignment-3\Generics\GenericsPrpject\GenericsPrpject\bin\Debug\net10.0\GenericsPrpject.exe
+C:\Users\RABIE ALI\Desktop\pro\RabieAli1-OOP-Assignment-3\Generics\GenericsPrpject\GenericsPrpject\bin\Debug\net10.0\GenericsPrpject.deps.json
+C:\Users\RABIE ALI\Desktop\pro\RabieAli1-OOP-Assignment-3\Generics\GenericsPrpject\GenericsPrpject\bin\Debug\net10.0\GenericsPrpject.runtimeconfig.json
+C:\Users\RABIE ALI\Desktop\pro\RabieAli1-OOP-Assignment-3\Generics\GenericsPrpject\GenericsPrpject\bin\Debug\net10.0\GenericsPrpject.dll
+C:\Users\RABIE ALI\Desktop\pro\RabieAli1-OOP-Assignment-3\Generics\GenericsPrpject\GenericsPrpject\bin\Debug\net10.0\GenericsPrpject.pdb
+C:\Users\RABIE ALI\Desktop\pro\RabieAli1-OOP-Assignment-3\Generics\GenericsPrpject\GenericsPrpject\obj\Debug\net10.0\GenericsPrpject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RABIE ALI\Desktop\pro\RabieAli1-OOP-Assignment-3\Generics\GenericsPrpject\GenericsPrpject\obj\Debug\net10.0\GenericsPrpject.AssemblyInfoInputs.cache
+C:\Users\RABIE ALI\Desktop\pro\RabieAli1-OOP-Assignment-3\Generics\GenericsPrpject\GenericsPrpject\obj\Debug\net10.0\GenericsPrpject.AssemblyInfo.cs
+C:\Users\RABIE ALI\Desktop\pro\RabieAli1-OOP-Assignment-3\Generics\GenericsPrpject\GenericsPrpject\obj\Debug\net10.0\GenericsPrpject.csproj.CoreCompileInputs.cache
+C:\Users\RABIE ALI\Desktop\pro\RabieAli1-OOP-Assignment-3\Generics\GenericsPrpject\GenericsPrpject\obj\Debug\net10.0\GenericsPrpject.sourcelink.json
+C:\Users\RABIE ALI\Desktop\pro\RabieAli1-OOP-Assignment-3\Generics\GenericsPrpject\GenericsPrpject\obj\Debug\net10.0\GenericsPrpject.dll
+C:\Users\RABIE ALI\Desktop\pro\RabieAli1-OOP-Assignment-3\Generics\GenericsPrpject\GenericsPrpject\obj\Debug\net10.0\refint\GenericsPrpject.dll
+C:\Users\RABIE ALI\Desktop\pro\RabieAli1-OOP-Assignment-3\Generics\GenericsPrpject\GenericsPrpject\obj\Debug\net10.0\GenericsPrpject.pdb
+C:\Users\RABIE ALI\Desktop\pro\RabieAli1-OOP-Assignment-3\Generics\GenericsPrpject\GenericsPrpject\obj\Debug\net10.0\GenericsPrpject.genruntimeconfig.cache
+C:\Users\RABIE ALI\Desktop\pro\RabieAli1-OOP-Assignment-3\Generics\GenericsPrpject\GenericsPrpject\obj\Debug\net10.0\ref\GenericsPrpject.dll
